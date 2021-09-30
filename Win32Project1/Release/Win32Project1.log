@@ -1,0 +1,13 @@
+﻿  gs.cpp
+gs.cpp(1292): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+gs.cpp(1592): warning C4316: 'gsFrame': ヒープで割り当てられたオブジェクトが 16 にアラインメントされていない可能性があります
+  game.cpp
+game.cpp(202): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+game.cpp(294): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+game.cpp(305): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+game.cpp(306): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  コード生成しています。
+  All 64 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+  Win32Project1.vcxproj -> C:\K013A2065\Win32Project1\Release\Win32Project1.exe
+  Win32Project1.vcxproj -> C:\K013A2065\Win32Project1\Release\Win32Project1.pdb (Full PDB)
